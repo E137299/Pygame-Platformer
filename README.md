@@ -1,6 +1,6 @@
 # Pygame Platformer
 
-In this project, you will create a **2D platform game** using **Pygame** and **object-oriented programming**.
+In this project, you will create a 2D platform game using Pygame and object-oriented programming.
 
 The game world scrolls left and right as the player moves. The player can:
 
