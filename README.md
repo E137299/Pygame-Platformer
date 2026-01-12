@@ -121,7 +121,7 @@ Represents the user-controlled character.
 
 ---
 
-##  `Enemy` Class**
+##  `Enemy` Class
 
 ### Purpose
 
